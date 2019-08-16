@@ -10,7 +10,7 @@
 						<ul class="nav navbar-nav">
 							<li>
 								
-								<router-link to="/EmpAdd">雇员新增</router-link>
+								<router-link to="/EmpAdd">雇员新增1</router-link>
 							</li>
 							<li>
 								
